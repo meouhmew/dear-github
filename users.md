@@ -14,3 +14,4 @@
 - @BlackShadow1
 - @SkygridRex
 - @ABAxStorm
+- @freshkitty
