@@ -15,3 +15,4 @@
 - @SkygridRex
 - @ABAxStorm
 - @freshkitty
+- @haniokasai
