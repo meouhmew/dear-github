@@ -23,3 +23,4 @@
 - @LionWaffles
 - @CaptainDuck
 - @Jankirby
+- @leonardosnt
