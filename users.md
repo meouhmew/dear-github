@@ -30,3 +30,7 @@
 - @FelixINX
 - @deotern
 - @Muqsit
+- @The Lucy Club GitHub Team
+- @ForeignApplesauce
+
+Sign your name, [HERE](http://github.com/ImagicalCorp/dear-github/edit/master/users.md)
