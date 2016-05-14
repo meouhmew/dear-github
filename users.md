@@ -27,3 +27,4 @@
 - @matcracker
 - @TheKnightGamer
 - @FelixINX
+- @deotern
