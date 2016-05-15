@@ -1,5 +1,3 @@
-# FUCK YOU @DALTONTASTIC
-
 #### Dear GitHub,
 Recently, a user, namely [@DALTONTASTIC](https://github.com/Daltontastic) abused his admin rights on the ImagicalMine organisation. He deleted the whole organisation and every repository with it. Today we would like you to bring us to justice. We would like to tell all the other organisations out there to review who has admin rights in order to stop the same situation happening to them.
 We would also like you to:
