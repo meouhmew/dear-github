@@ -33,5 +33,3 @@
 - @The Lucy Club GitHub Team
 - @ForeignApplesauce
 - @jasonwynn10
-
-Sign your name, [HERE](http://github.com/ImagicalCorp/dear-github/edit/master/users.md)
