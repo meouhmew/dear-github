@@ -25,6 +25,7 @@
 - @CaptainDuck
 - @Jankirby
 - @leonardosnt
+- @DelxHQ
 - @matcracker
 - @TheKnightGamer
 - @FelixINX
